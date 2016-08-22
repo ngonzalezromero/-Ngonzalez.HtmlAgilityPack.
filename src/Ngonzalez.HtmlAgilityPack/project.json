@@ -1,0 +1,32 @@
+﻿{
+  "version": "2.0.0",
+  "description": "Ngonzalez.HtmlAgilityPack",
+  "authors": [
+    "Ngonzalez"
+  ],
+  "packOptions": {
+    "tags": [
+      "net451",
+      "netcoreapp1.0"
+
+    ],
+    "projectUrl": "",
+    "licenseUrl": ""
+  },
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.0"
+  },
+
+  "frameworks": {
+    "net452": {
+      //"frameworkAssemblies": {
+      //  "System.Xml": ""
+      //}
+    },
+    "netcoreapp1.0": {
+    
+      "imports": "dnxcore50"
+    }
+  }
+}

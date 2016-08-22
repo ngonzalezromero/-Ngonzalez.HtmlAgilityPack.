@@ -1,0 +1,48 @@
+--temp-output:Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\obj\Debug\net46\
+--out:Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\bin\Debug\net46\Ngonzalez.HtmlAgilityPack.dll
+--define:DEBUG
+--define:TRACE
+--define:NET46
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--optimize:False
+--output-name:Ngonzalez.HtmlAgilityPack
+--description:Ngonzalez.HtmlAgilityPack
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.6
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Facades\System.Diagnostics.Debug.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Facades\System.Runtime.dll
+--reference:C:\Users\VmWindows\.nuget\packages\System.Runtime.Serialization.Primitives\4.1.1-rc2-24027\ref\net46\System.Runtime.Serialization.Primitives.dll
+--reference:C:\Users\VmWindows\.nuget\packages\System.Runtime.Serialization.Xml\4.1.1-rc2-24027\ref\net46\System.Runtime.Serialization.Xml.dll
+--reference:C:\Users\VmWindows\.nuget\packages\System.Xml.XPath\4.0.1-rc2-24027\ref\net46\System.Xml.XPath.dll
+--reference:C:\Users\VmWindows\.nuget\packages\System.Xml.XPath.XDocument\4.0.1-rc2-24027\ref\net46\System.Xml.XPath.XDocument.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Microsoft.CSharp.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Runtime.Serialization.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Xml.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Xml.Linq.dll
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlAttribute.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlAttributeCollection.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlCommentNode.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlDocument.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlDocument.Xpath.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlElementFlag.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlEntity.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNameTable.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNode.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNode.Xpath.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNodeCollection.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNodeNavigator.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNodeType.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlParseError.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlParseErrorCode.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlTextNode.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\NameValuePair.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\NameValuePairList.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\Utilities.cs
+Z:\Documentos\Proyectos\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\Properties\AssemblyInfo.cs

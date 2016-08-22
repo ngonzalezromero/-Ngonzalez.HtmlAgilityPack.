@@ -1,0 +1,69 @@
+--temp-output:\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\obj\Debug\net452\
+--out:\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\bin\Debug\net452\Ngonzalez.HtmlAgilityPack.dll
+--define:DEBUG
+--define:TRACE
+--define:NET452
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--optimize:False
+--output-name:Ngonzalez.HtmlAgilityPack
+--description:Ngonzalez.HtmlAgilityPack
+--file-version:2.0.0.0
+--version:2.0.0.0
+--informational-version:2.0.0
+--target-framework:.NETFramework,Version=v4.5.2
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Collections.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Collections.Concurrent.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Diagnostics.Debug.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Diagnostics.Tools.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Diagnostics.Tracing.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Globalization.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.IO.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.IO.Compression.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Linq.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Linq.Expressions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Net.Primitives.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.ObjectModel.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Reflection.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Reflection.Extensions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Reflection.Primitives.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Resources.ResourceManager.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.Extensions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.InteropServices.dll
+--reference:C:\Users\nicolas\.nuget\packages\System.Runtime.InteropServices.RuntimeInformation\4.0.0\ref\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Runtime.Numerics.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Text.Encoding.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Text.Encoding.Extensions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Text.RegularExpressions.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Threading.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Threading.Tasks.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Threading.Timer.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.ReaderWriter.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.XDocument.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlAttribute.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlAttributeCollection.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlCommentNode.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlDocument.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlDocument.Xpath.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlElementFlag.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlEntity.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNameTable.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNode.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNode.Xpath.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNodeCollection.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNodeNavigator.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlNodeType.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlParseError.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlParseErrorCode.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\HtmlTextNode.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\NameValuePair.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\NameValuePairList.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\Utilities.cs
+\\vmware-host\Shared Folders\Documentos\Proyectos\Utilitarios\HtmlAgilityPack\src\Ngonzalez.HtmlAgilityPack\Properties\AssemblyInfo.cs
